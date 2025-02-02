@@ -17,7 +17,7 @@ THis is a Latex-based template for a PhD thesis at the Faculty of Life Sciences 
 I had a lot of success using [The most dangerous writing app](https://www.squibler.io/dangerous-writing-prompt-app) in combination with ChatGPT.
 1. Set a timer from five to ten minutes and generate without a prompt.
 2. Free-write a section for the set time without thinking.
-3. Copy the text to ChatGPT with a prompt that tells it to correct spelling and improve grammar using scientific English.
+3. Copy the raw and uncorrected text to ChatGPT with a prompt that tells it to correct spelling and improve grammar using scientific English.
 4. Copy ChatGPT's text to any text editor and rephrase the text using your own words and add anything you forgot (you are now an editor basically).
 5. Put the text into Latex form in the Overleaf project.
 6. Repeat steps 1. to 5. for the next section.
