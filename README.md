@@ -1,5 +1,5 @@
 # Template for a PhD thesis
-THis is a Latex-based template for a PhD thesis at the Faculty of Life Sciences of the Humboldt University Berlin. The template is based on the package [ClassicThesis](https://ctan.org/pkg/classicthesis?lang=en) by André Miede. It was used and tested in Overleaf.
+THis is a Latex-based template for a PhD thesis at the Faculty of Life Sciences of the Humboldt University Berlin. The PDF file `Template_for_a_PhD_thesis_at_Humboldt_University.pdf` shows the design of this template. The template is based on the package [ClassicThesis](https://ctan.org/pkg/classicthesis?lang=en) by André Miede. It was used and tested in Overleaf (Compiler `pdfLaTeX` and TeX Live Version `texlive-full:2023.1`).
 
 ## Set-up
 1. Download this repo (zipped version works).
